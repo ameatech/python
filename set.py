@@ -1,0 +1,6 @@
+x={"amare"} #set()
+x.add(1)
+x.add(2)
+x.add(1)
+x.remove("amare")
+print(x)
