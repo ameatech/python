@@ -1,6 +1,6 @@
 import os
 #print(os.getcwd()) #get current working directory
-path=os.chdir(r"E:\lab\isr\regular section 1") #change directory
+path=os.chdir(r"c:\python\isr\lab") #change directory
 #print(os.listdir()) #list files in current directory
 #print(os.getcwd())
 #
